@@ -20,6 +20,7 @@ Tech Stack:
   - Java -> Spring Boot
   - Python -> Pandas, NumPy, Flask, Jupyter
   - JavaScript -> React.js
+  - SQL -> PostgreSQL, MySql
 
 ⚽️Hobbies & Clubs:
   - Playing soccer and going for runs
