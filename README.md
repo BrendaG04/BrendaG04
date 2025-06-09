@@ -17,10 +17,10 @@ Here are some ideas to get you started:
   - Collaborating on innovative, impact driven projects
 
 Tech Stack:
-  - Java -> Spring Boot
-  - Python -> Pandas, NumPy, Flask, Jupyter
-  - JavaScript -> React.js
-  - SQL -> PostgreSQL, MySql
+  - **Java** -> Spring Boot
+  - **Python** -> Pandas, NumPy, Flask, Jupyter
+  - **JavaScript** -> React.js
+  - **SQL** -> PostgreSQL, MySql
 
 ⚽️Hobbies & Clubs:
   - Playing soccer and going for runs
