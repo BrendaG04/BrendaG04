@@ -13,8 +13,8 @@
   - **SQL** -> PostgreSQL, MySql
 
 📁**Projects**:
-  - **AutoVal** -> [Repo] (soon...)
-  - **CarFlix** -> [Repo] (https://github.com/BrendaG04/CarFlix.git)
+  - **AutoVal** -> A full-stack web application that enables users to get an estimated value of their used vehicle based on certain details. [Repo] (soon...)
+  - **CarFlix** -> A full-stack web application that allows users to explore   over 1,000 popular car makes and models from 2024 & 2025, and save their favorite vehicles [Repo] (https://github.com/BrendaG04/CarFlix.git) Includes README File
   
 🩶**I enjoy**:
   - Solving real-world problems through tech
