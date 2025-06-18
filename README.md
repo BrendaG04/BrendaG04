@@ -2,7 +2,7 @@
 
 📚**About me!**:
   - CS student in my junior year at FSC in NY
-  - Passionate about sofwtare engineering, AI/ML, and data science 
+  - Passionate about software engineering, AI/ML, and data science 
   - AI Fellow at Break Through Tech Cornell University
   - AI Research Assistant working on digital twins and collaborative robotics
   - Brainstorming my own possible startup
