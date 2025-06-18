@@ -1,14 +1,9 @@
 ## Hi there! I'm Brenda!👋
 
-<!--
-**BrendaG04/BrendaG04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--->
 📚**Currently**:
   - CS student in my junior year at FSC in NY
   - AI Fellow at Break Through Tech Cornell University
-  - Research Assistant working on digital twins and collaborative robotics
+  - AI Research Assistant working on digital twins and collaborative robotics
   - Brainstorming my own possible startup
 
 🩶**I enjoy**:
@@ -17,7 +12,7 @@ Here are some ideas to get you started:
   - Collaborating on innovative, impact driven projects
 
 👩‍💻**Tech Stack**:
-  - **Java** -> Spring Boot
+  - **Java** -> Spring Boot, JavaFX
   - **Python** -> Pandas, NumPy, Flask, Jupyter, Colab
   - **JavaScript** -> React.js
   - **SQL** -> PostgreSQL, MySql
