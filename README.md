@@ -6,16 +6,20 @@
   - AI Research Assistant working on digital twins and collaborative robotics
   - Brainstorming my own possible startup
 
-🩶**I enjoy**:
-  - Solving real-world problems through tech
-  - Learning new frameworks and tools
-  - Collaborating on innovative, impact driven projects
-
 👩‍💻**Tech Stack**:
   - **Java** -> Spring Boot, JavaFX
   - **Python** -> Pandas, NumPy, Flask, Jupyter, Colab
   - **JavaScript** -> React.js
   - **SQL** -> PostgreSQL, MySql
+
+📁**Projects**:
+  - **AutoVal** -> [Repo] (soon...)
+  - **CarFlix** -> [Repo] (https://github.com/BrendaG04/CarFlix.git)
+  
+🩶**I enjoy**:
+  - Solving real-world problems through tech
+  - Learning new frameworks and tools
+  - Collaborating on innovative, impact driven projects
 
 ⚽️**Hobbies & Clubs**:
   - Playing soccer and going for runs
