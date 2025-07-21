@@ -32,6 +32,6 @@
   - Machine Learning Foundations e-Certificate, Break Through Tech @ Cornell University
   - CITI Program Advanced Social/Behavioral Research Certification 
 
-![Brenda's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrendaG04&show_icons=true&theme=radical)
+
 
 Let’s connect: [LinkedIn](http://www.linkedin.com/in/brenda-galdamez-066500288) | [Portfolio](https://brenwareportfolio.netlify.app) | Email: Jgaldamez098@gmail.com
