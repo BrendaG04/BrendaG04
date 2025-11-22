@@ -17,11 +17,9 @@
 📁**Projects**:
   - **CarFlix** [Repo](https://github.com/BrendaG04/CarFlix) -> A full-stack web application that allows users to explore over 1,000 popular car makes and models from 2024 & 2025, and save their favorite vehicles.
    - **AutoVal** [Repo](https://github.com/BrendaG04/AutoVal) -> A full-stack web application that enables users to get an estimated value of their used vehicle based on certain details.
-   - **TrendSpotting** [Soon]() ->
+   - **Youtube Video Virality Predictor** [Soon](https://github.com/BrendaG04/Google1D) -> A machine learning project developed as a team aiming to predict the trending potential of YouTube videos. (Google/BTT)
    - **Book Review Sentiment Analysis** [Repo](https://github.com/BrendaG04/ReviewSentimentAnalysis) -> A machine learning model that uses a binary classifier to predict whether a book review sentiment is positive or negative.
    - **Handwritten Digit Recognition** [Repo](https://github.com/BrendaG04/HandwrittenDigitRecognition) -> A machine learning model using computer vision to predict a handwritten digit.
-
-   - **AI Program Project** -> Coming soon...
      
 🩶**I enjoy**:
   - Solving real-world problems through tech
