@@ -6,13 +6,14 @@
   - AI Fellow at Break Through Tech Cornell University
   - AI Studio Fellow at Google
   - AI Research Assistant working on digital twins and collaborative robotics
-  - Brainstorming my own possible startup
+  - Incoming IBM Firmware Developer Intern Summer 2026
 
 👩‍💻**Tech Stack**:
   - **Java** -> Spring Boot, JavaFX
   - **Python** -> Pandas, NumPy, Flask, Jupyter Notebook, Google Colab, Scikit-learn, Matplotlib
-  - **JavaScript** -> React.js
+  - **JavaScript** -> React.js ~ HTML/CSS
   - **SQL** -> PostgreSQL, MySql
+  - **Linux**
 
 📁**Projects**:
   - **CarFlix** [Repo](https://github.com/BrendaG04/CarFlix) -> A full-stack web application that allows users to explore over 1,000 popular car makes and models from 2024 & 2025, and save their favorite vehicles.
