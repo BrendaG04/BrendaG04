@@ -6,7 +6,7 @@
   - AI Fellow at Break Through Tech Cornell University
   - AI Studio Fellow at Google
   - AI Research Assistant working on digital twins and collaborative robotics
-  - Incoming IBM Firmware Developer Intern Summer 2026
+  - IBM Firmware Developer Intern Summer 2026
 
 👩‍💻**Tech Stack**:
   - **Java** -> Spring Boot, JavaFX
@@ -38,4 +38,4 @@
   - CITI Program Advanced Social/Behavioral Research Certification 
 
 
-Let’s connect: [LinkedIn](http://www.linkedin.com/in/brenda-galdamez-066500288) | [Portfolio](https://brenwareportfolio.netlify.app) | Email: Jgaldamez098@gmail.com
+Let’s connect: [LinkedIn](https://www.linkedin.com/in/brendagaldamez/) | [Portfolio](https://brenwareportfolio.netlify.app) | Email: Jgaldamez098@gmail.com
