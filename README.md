@@ -1,7 +1,7 @@
 ## Hi there! I'm Brenda!👋
 
 📚**About me!**:
-  - CS student in my junior year at FSC in NY
+  - CS student in my senior year at FSC in NY
   - Passionate about software engineering, AI/ML, and data science 
   - AI Fellow at Break Through Tech Cornell University
   - AI Studio Fellow at Google
